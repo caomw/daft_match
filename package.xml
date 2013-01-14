@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>daft_match</name>
+  <version>0.0.0</version>
+  <description>The daft_match package</description>
+
+  <maintainer email="dgossow@willowgarage.com">David Gossow</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>opencv2</build_depend>
+  <run_depend>opencv2</run_depend>
+
+  <build_depend>daft</build_depend>
+  <run_depend>daft</run_depend>
+
+  <export>
+  </export>
+</package>
